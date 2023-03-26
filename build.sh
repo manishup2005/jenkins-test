@@ -1,1 +1,2 @@
-echo "Firt Step Build package !" $(date) 
+#!/bin/bash
+echo "First Step Build package !" $(date) 
