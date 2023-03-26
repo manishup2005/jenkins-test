@@ -48,8 +48,7 @@ pipeline {
             echo "runs when build is unstable"
         }
         changed{
-            echo "runs when there is change between prior and current 
-build"
+            echo "runs when there is change between prior and current"
         }
     }
 }
