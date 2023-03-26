@@ -1,1 +1,1 @@
-echo "Build package !" $(date) 
+echo "Firt Step Build package !" $(date) 
